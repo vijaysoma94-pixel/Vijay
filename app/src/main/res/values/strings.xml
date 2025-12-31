@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">Income Expense App</string>
+
+    <!-- Main Screen -->
+    <string name="title_dashboard">Dashboard</string>
+    <string name="total_income">Total Income</string>
+    <string name="total_expense">Total Expense</string>
+    <string name="balance">Balance</string>
+    <string name="add_income">Add Income</string>
+    <string name="add_expense">Add Expense</string>
+
+    <!-- Add Income Screen -->
+    <string name="title_add_income">Add Income</string>
+    <string name="hint_income_amount">Enter Income Amount</string>
+    <string name="btn_save_income">Save Income</string>
+    <string name="msg_income_added">Income Added Successfully</string>
+    <string name="msg_enter_income">Please enter income amount</string>
+
+    <!-- Add Expense Screen -->
+    <string name="title_add_expense">Add Expense</string>
+    <string name="hint_expense_amount">Enter Expense Amount</string>
+    <string name="btn_save_expense">Save Expense</string>
+    <string name="msg_expense_added">Expense Added Successfully</string>
+    <string name="msg_enter_expense">Please enter expense amount</string>
+
+</resources>
