@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/totalIncome"
+        android:textSize="18sp"
+        android:text="Income"/>
+
+    <TextView
+        android:id="@+id/totalExpense"
+        android:textSize="18sp"
+        android:text="Expense"/>
+
+    <TextView
+        android:id="@+id/balance"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Balance"/>
+
+</LinearLayout>
